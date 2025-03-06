@@ -1,0 +1,2 @@
+# rustfmt.toml
+max_width = 200            # Adjust the max line length
